@@ -1,2 +1,3 @@
 # Saylikhedkar2610
-this is my first git Repository
+This is my first git Repository
+Author - Sayali Khedkar
